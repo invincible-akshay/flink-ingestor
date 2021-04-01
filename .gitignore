@@ -1,0 +1,17 @@
+## IDE specific files
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+
+# OS Specific files
+
+# Mac
+.DS_Store
+
+
+## Maven
+log/
+target/
